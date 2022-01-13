@@ -1,0 +1,22 @@
+PODS:
+  - ElectrodeContainer (0.0.1)
+
+DEPENDENCIES:
+  - ElectrodeContainer (from `https://github.com/zaferbozkurt/ecz-ios-lib.git`, tag `v0.0.1`)
+
+EXTERNAL SOURCES:
+  ElectrodeContainer:
+    :git: https://github.com/zaferbozkurt/ecz-ios-lib.git
+    :tag: v0.0.1
+
+CHECKOUT OPTIONS:
+  ElectrodeContainer:
+    :git: https://github.com/zaferbozkurt/ecz-ios-lib.git
+    :tag: v0.0.1
+
+SPEC CHECKSUMS:
+  ElectrodeContainer: a4d9c0fd6db26be634cc1d7e51370e5d9f70b468
+
+PODFILE CHECKSUM: 079f41d377650bb3b8abddf734d2180aec4f82fc
+
+COCOAPODS: 1.11.2
